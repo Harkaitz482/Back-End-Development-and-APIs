@@ -1,6 +1,7 @@
 {
 	"author": "Harkaitz Trujillo Corrales",
 	"name": "fcc-learn-npm-package-json",
+	"description": "Danken Sir",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
