@@ -2,7 +2,7 @@
 	"author": "Harkaitz Trujillo Corrales",
 	"name": "fcc-learn-npm-package-json",
 	"description": "Danken Sir",
-	"keywords": [ "Perro", "Sanchez", "GE" ],
+	"keywords": [ "Perro", "Sanchez", "freecodecamp" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
